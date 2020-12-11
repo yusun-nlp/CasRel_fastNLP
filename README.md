@@ -70,6 +70,8 @@ Other dependent packages described in [fastNLP Docs](https://fastnlp.readthedocs
    ```
 
 3. **Train and select the model** 
+   - [ ] Now trained in cpu, plan to move to gpu later.
+   - [ ] Now define my own train model, plan to use Trainer class in fastNLP.
 
 4. **Evaluate on the test set**
 
